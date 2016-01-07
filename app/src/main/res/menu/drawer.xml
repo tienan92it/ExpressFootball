@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/lasted_highlight"
+            android:checked="false"
+            android:icon="@drawable/ic_new"
+            android:title="@string/menu_lasted_highlight" />
+
+        <item
+            android:id="@+id/premier_league"
+            android:checked="false"
+            android:icon="@drawable/ic_premier_league"
+            android:title="@string/menu_premier_league" />
+
+        <item
+            android:id="@+id/la_liga"
+            android:checked="false"
+            android:icon="@drawable/ic_liga_bbva"
+            android:title="@string/menu_la_liga" />
+
+        <item
+            android:id="@+id/ranking_table"
+            android:checked="false"
+            android:icon="@drawable/ic_ranking"
+            android:title="@string/menu_ranking_table" />
+
+    </group>
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Express Football</string>
+    
+    <string name="menu_lasted_highlight">Lasted Highlight</string>
+    <string name="menu_premier_league">Premier League</string>
+    <string name="menu_la_liga">ligaBBVA</string>
+    <string name="menu_ranking_table">Ranking table</string>
+</resources>
